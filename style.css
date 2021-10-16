@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&family=Lora&family=Nunito:wght@200&family=Raleway:wght@100&display=swap');
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Lora", serif;
+}
+
+.top-container {
+    background-color: #fcffa6;
+    padding-top: 100px;
+}
+
+h1 {
+    font-family: "Ephesis", cursive;
+    color: #8236cb;
+    font-size: xxx-large;
+}
+
+h2 {
+    color: #a472d3;
+    font-family: 'Nunito', sans-serif;
+}
+
+.chim {
+    position: absolute;
+    left: 150px;
+    bottom: 250px;
+}
+
+.chimmy {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+
+.middle-container {
+    margin: 75px 0;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+hr {
+    border: dotted #7fbef1 5px;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.singing {
+    width: 20%;
+    float: left;
+    margin-right: 50px;
+}
+
+h3 {
+    font-family: "Raleway", sans-serif;
+    color: #a472d3;
+}
+
+.dancing {
+    width: 23%;
+    float: right;
+}
+
+.martialArt {
+    width: 33%;
+    float: left;
+    margin-right: 50px;
+}
+
+.contact-message {
+    margin-bottom: 75px;
+}
+
+.btn {
+    background: #85d5ed;
+    background-image: -webkit-linear-gradient(top, #85d5ed, #0998eb);
+    background-image: -moz-linear-gradient(top, #85d5ed, #0998eb);
+    background-image: -ms-linear-gradient(top, #85d5ed, #0998eb);
+    background-image: -o-linear-gradient(top, #85d5ed, #0998eb);
+    background-image: linear-gradient(to bottom, #85d5ed, #0998eb);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #e8e8ae;
+    background-image: -webkit-linear-gradient(top, #e8e8ae, #dede42);
+    background-image: -moz-linear-gradient(top, #e8e8ae, #dede42);
+    background-image: -ms-linear-gradient(top, #e8e8ae, #dede42);
+    background-image: -o-linear-gradient(top, #e8e8ae, #dede42);
+    background-image: linear-gradient(to bottom, #e8e8ae, #dede42);
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #C5E5E3;
+    padding: 50px;
+}
+
+.social {
+    text-decoration: none;
+    color: #7A8CF0;
+    margin: 20px;
+}
+
+.social:hover {
+    color: #bbbb4d;
+}
+
+.address {
+    width: 15px;
+    margin: 20px 0 0 0;
+}
+
+.address-text {
+    color: #7A8CF0;
+}
+
+.copyright {
+    color: #7A8CF0;
+}
